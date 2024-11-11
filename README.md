@@ -1,8 +1,7 @@
 <!-- Banner -->
-<p align="center">
-<img scr="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFibjNtMnlzbDEzaTJtOHJrdjVudzB6YWttODFiY2Rwa3FmdWUxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"  alt="Header Banner" width="600"/>
-</p>
-
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFibjNtMnlzbDEzaTJtOHJrdjVudzB6YWttODFiY2Rwa3FmdWUxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Footer Banner" width="600"/>
+</div>
 <!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=5000&pause=1000&color=0b4a7e&center=true&width=435&lines=Hi+👋,+I'm+Abakwe+Carrington" alt="Typing SVG" />
