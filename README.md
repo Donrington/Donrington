@@ -4,7 +4,7 @@
 </div>
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=5000&pause=1000&color=0b4a7e&center=true&width=435&lines=Hi+👋,+I'm+Abakwe+Carrington" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=5000&pause=1000&color=0b4a7e&center=true&width=435&lines=Hi+👋,+I'm+CyberSage" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A Passionate Web Developer & Freelancer</h3>
@@ -25,15 +25,15 @@
 
 <!-- Social Follow Badge -->
 <p align="center">
-  <a href="https://twitter.com/nightburnn">
-    <img src="https://img.shields.io/twitter/follow/nightburnn?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://x.com/CarlSwitch_CHUG?t=0Uj7WPe-8ucgDZr50R7WYA&s=09">
+    <img src="https://img.shields.io/twitter/follow/CyberSage?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
 <!-- About Me -->
 ## 👨‍💻 About Me
 
-Hello! I'm **Abakwe Carrington**, a passionate Full Stack Software Developer specializing in building beautiful, functional, and cutting-edge web applications. I thrive on turning complex problems into simple, elegant solutions. With expertise in Python frameworks like Flask and Django for seamless backend development, I deliver stunning front-end interfaces using modern frameworks and technologies.
+Hello! I'm **Cybersage**, a passionate Full Stack Software Developer specializing in building beautiful, functional, and cutting-edge web applications. I thrive on turning complex problems into simple, elegant solutions. With expertise in Python frameworks like Flask and Django for seamless backend development, I deliver stunning front-end interfaces using modern frameworks and technologies.
 
 
 ### 👯 I'm Looking to Collaborate On
@@ -45,7 +45,7 @@ Hello! I'm **Abakwe Carrington**, a passionate Full Stack Software Developer spe
 - **Phone:** [+234 (702) 549-5506](tel:+2347025495506)
 
 ### 📄 Check Out My
-- [Portfolio]([https://yourportfolio.com](https://cybersage-portfolio-2024.vercel.app/index.html))
+- [Portfolio](https://cybersage-portfolio-2024.vercel.app/index.html)
 - [Resume](https://cybersage-portfolio-2024.vercel.app/resume/ABAKWECARRINGTONCV.pdf)
 
 ### ⚡ Fun Fact
@@ -65,6 +65,7 @@ I love Anime, Manga and Manhwa! So do leave a recommendation. :)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-90232A?style=for-the-badge&logo=Bootstrap&logoColor=61DAFB)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   ![Chart.js](https://img.shields.io/badge/Chart.js-68790D?style=for-the-badge&logo=Chart.js&logoColor=61DAFB)
@@ -179,7 +180,6 @@ Developed a comprehensive travel management web application, boosting user engag
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carrington-abakwe-b0b0a0217)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/donrington)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nightburnn)
   [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=xing&logoColor=white)](https://x.com/CarlSwitch_CHUG)
   
 </div>
