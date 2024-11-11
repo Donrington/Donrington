@@ -1,13 +1,17 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFibjNtMnlzbDEzaTJtOHJrdjVudzB6YWttODFiY2Rwa3FmdWUxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Footer Banner" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFibjNtMnlzbDEzaTJtOHJrdjVudzB6YWttODFiY2Rwa3FmdWUxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Welcome Banner" width="600"/>
 </div>
+
 <!-- Typing Animation -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=5000&pause=1000&color=0b4a7e&center=true&width=435&lines=Hi+👋,+I'm+CyberSage" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=5000&pause=1000&color=0b4a7e&center=true&width=435&lines=Hello+World!+I’m+CyberSage" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A Passionate Web Developer & Freelancer</h3>
+
+<h3 align="center">Full Stack Developer | Tech Innovator | Freelance Consultant</h3>
+
 
 <!-- Profile Views -->
 <p align="center">
@@ -29,16 +33,21 @@
     <img src="https://img.shields.io/twitter/follow/CyberSage?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
-
 <!-- About Me -->
+---
+
 ## 👨‍💻 About Me
+Hello! I'm **CyberSage**, a passionate Full Stack Developer with expertise in transforming ideas into efficient, responsive, and visually stunning web applications. My toolbox includes Python (Flask, Django) for the backend, and modern front-end frameworks like React for an engaging user experience. I'm always ready for new challenges and love collaborating on innovative projects.
 
-Hello! I'm **Cybersage**, a passionate Full Stack Software Developer specializing in building beautiful, functional, and cutting-edge web applications. I thrive on turning complex problems into simple, elegant solutions. With expertise in Python frameworks like Flask and Django for seamless backend development, I deliver stunning front-end interfaces using modern frameworks and technologies.
+### 🔍 Areas of Interest:
+- **Web Development**: Crafting modern, responsive websites.
+- **Backend Solutions**: Building robust APIs and server-side solutions.
+- **Web3 Integration**: Exploring blockchain technology in modern applications.
 
+### 💡 Current Focus
+- **Learning**: Nodejs, Express.js and Next.js.
+- **Collaborations**: Open to React and Python projects.
 
-### 👯 I'm Looking to Collaborate On
-- **React Projects**
-- **Python Projects**
 
 ### 📫 Reach Me At
 - **Email:** [carryoby@gmail.com](mailto:carryoby@gmail.com)
@@ -78,53 +87,21 @@ I love Anime, Manga and Manhwa! So do leave a recommendation. :)
 
 ## 🚀 Featured Projects
 
-### 1. **Rokeyla Store**
-
-![Rokeyla Store](https://img.shields.io/badge/Rokeyla_Store-FF5733?style=for-the-badge&logo=shopify&logoColor=white)
-
-Developed a robust e-commerce platform, enhancing user experience and increasing sales by 40%.
-
-[View Project](https://rokeylastore.vercel.app/)
-
 ---
 
-### 2. **Samdus Oil & Gas**
+## 🚀 Featured Projects
 
-![Samdus Oil & Gas](https://img.shields.io/badge/Samdus_Oil_%26_Gas-1E90FF?style=for-the-badge&logo=oil&logoColor=white)
+### 📍 Rokeyla Store
+An e-commerce platform that enhances user experience and drives sales growth. **[View Project](https://rokeylastore.vercel.app/)**
 
-Built and maintained the company portfolio website, improving online presence and client engagement.
+### 📍 Samdus Oil & Gas
+A portfolio website for corporate visibility and client engagement. **[View Project](https://samdus-cybersage.vercel.app/)**
 
-[View Project](https://samdus-cybersage.vercel.app/)
+### 📍 All A Handyman & Contractor
+Responsive website for project management and client communications. **[View Project](https://handy-man-beta.vercel.app/)**
 
----
-
-### 3. **All A Handyman & Contractor**
-
-![All A Handyman](https://img.shields.io/badge/All_A_Handyman-28A745?style=for-the-badge&logo=handyman&logoColor=white)
-
-Designed and implemented a responsive website, streamlining project management and client communications.
-
-[View Project](https://handy-man-beta.vercel.app/)
-
----
-
-### 4. **ResuGlow**
-
-![ResuGlow](https://img.shields.io/badge/ResuGlow-FFC300?style=for-the-badge&logo=resuglow&logoColor=white)
-
-A resume builder application that allows users to create, customize, and download professional resumes with ease.
-
-[View Project]()
-
----
-
-### 5. **Amanigo Travels**
-
-![Amanigo Travels](https://img.shields.io/badge/Amanigo_Travels-FF4500?style=for-the-badge&logo=airplane&logoColor=white)
-
-Developed a comprehensive travel management web application, boosting user engagement and administrative efficiency.
-
-[View Project](https://amanigo,com)
+### 📍 ResuGlow
+A sleek resume builder application for professional branding. 
 
 ---
 
@@ -199,16 +176,6 @@ Developed a comprehensive travel management web application, boosting user engag
 
 ---
 
-## 📚 Additional Sections (Optional)
-
-### 📜 Certifications
-
-<div align="center">
-  
-  ![Certification Badge](https://img.shields.io/badge/Certification-Completed-blue?style=for-the-badge&logo=certification&logoColor=white)
-  ![Certification Badge](https://img.shields.io/badge/Certification-InProgress-green?style=for-the-badge&logo=certification&logoColor=white)
-
-</div>
 
 ### 📈 GitHub Activity
 
