@@ -148,32 +148,6 @@ Developed a comprehensive travel management web application, boosting user engag
   
 </div>
 
----
-
-## 💬 Testimonials
-
-### Hycinth
-> "Working with Carrington was a transformative experience. Our company's online presence has never been stronger."
-> 
-> **CEO, SAMDUS Oil and Gas Limited**
-
-### Chief Kenneth
-> "Carrington exceeded our expectations. The e-commerce platform they developed boosted our sales tremendously."
-> 
-> **CEO, ROKEYLA Fashion Store**
-
-### Avi
-> "Their attention to detail and innovative solutions set them apart. Our website is both functional and beautiful."
-> 
-> **CEO, All A Handyman & Contractor**
-
-### Halima
-> "CyberSage delivered a top-notch CMS for our travel agency. It's user-friendly and has enhanced our client engagement."
-> 
-> **Executive Director, Amanigo Travel Agency**
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
