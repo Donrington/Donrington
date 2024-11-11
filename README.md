@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img scr="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFibjNtMnlzbDEzaTJtOHJrdjVudzB6YWttODFiY2Rwa3FmdWUxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"  alt="Header Banner" width="600"/>
 </p>
 
 <!-- Typing Animation -->
@@ -197,7 +197,7 @@ Developed a comprehensive travel management web application, boosting user engag
 ## 📝 Footer
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQE9JKYZoBQEEw/articleshare-shrink_800/articleshare-shrink_800/0/1725828778052?e=2147483647&v=beta&t=KPV87XV0DB7-TYd1VNBsvU71J6wh4QLY79Xe--yElnQ" alt="Footer Banner" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenFibjNtMnlzbDEzaTJtOHJrdjVudzB6YWttODFiY2Rwa3FmdWUxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="Footer Banner" width="600"/>
 </div>
 
 ---
