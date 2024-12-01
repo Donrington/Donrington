@@ -86,7 +86,7 @@ I love Music, Anime, Manga and Manhwa! So do leave a recommendation. :)
 
 Developed a robust e-commerce platform, enhancing user experience and increasing sales by 40%.
 
-[View Project](https://rokeylastore.vercel.app/)
+[View Project](https://rokeyla.onrender.com/)
 
 ---
 
