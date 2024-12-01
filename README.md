@@ -51,7 +51,7 @@ Hello! I'm **Cybersage**, a passionate Full Stack Software Developer specializin
 - [Resume](https://cybersage-portfolio-2024.vercel.app/resume/ABAKWECARRINGTONCV.pdf)
 
 ### ⚡ Fun Fact
-I love Anime, Manga and Manhwa! So do leave a recommendation. :)
+I love Music, Anime, Manga and Manhwa! So do leave a recommendation. :)
 
 ---
 
