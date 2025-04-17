@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-<img src="https://imgur.com/a/tjyAjJM" alt="Animated GIF" width="600"/>
+<img src="https://i.imgur.com/IvS9SU4.gif" alt="Animated GIF" width="600"/>
 </div>
 <!-- Typing Animation -->
 <h1 align="center">
