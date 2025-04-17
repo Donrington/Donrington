@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://drive.google.com/file/d/18OKiWT6oVfsKB-GsLld-PBEjuqXtyu6o/view?usp=drivesdk" alt="Footer Banner" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=18OKiWT6oVfsKB-GsLld-PBEjuqXtyu6o" alt="Footer Banner" width="600"/>
 </div>
 <!-- Typing Animation -->
 <h1 align="center">
