@@ -44,7 +44,7 @@
 <tr>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/><br/>
-<b>15+ Projects</b><br/>
+<b>30+ Projects</b><br/>
 <sub>Production Ready</sub>
 </td>
 <td align="center" width="25%">
@@ -119,7 +119,7 @@ class CyberSage:
         return [
             "🚀 Increased client revenue by 40% through optimized solutions",
             "⭐ 100% on-time project delivery record",
-            "🏆 15+ production applications serving 10K+ users",
+            "🏆 30+ production applications serving 10K+ users",
             "🎯 98% client satisfaction rate",
             "💡 Led teams of 5+ developers on enterprise projects"
         ]
@@ -208,7 +208,7 @@ class CyberSage:
 
 ---
 
-## 🚀 Portfolio Showcase - 15+ Production Applications
+## 🚀 Portfolio Showcase - 30+ Production Applications
 
 <div align="center">
 
@@ -748,7 +748,7 @@ Restaurant ordering and delivery tracking
 <tr>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/><br/>
-<b>15+ Projects</b><br/>
+<b>30+ Projects</b><br/>
 <sub>Successfully Deployed</sub>
 </td>
 <td align="center" width="25%">
@@ -1262,7 +1262,7 @@ I'm here to deliver exceptional results. Let's discuss how I can help achieve yo
 </td>
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/rocket.png"/><br/>
-<b>15+ Projects</b><br/>
+<b>30+ Projects</b><br/>
 <sub>Delivered</sub>
 </td>
 <td align="center">
