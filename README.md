@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=donrington&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/donrington?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/donrington?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Projects-15%2B-success?style=for-the-badge&logo=checkmarx" alt="Projects" />
+  <img src="https://img.shields.io/badge/Projects-30%2B-success?style=for-the-badge&logo=checkmarx" alt="Projects" />
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-orange?style=for-the-badge&logo=buffer" alt="Experience" />
 </div>
 
