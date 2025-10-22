@@ -1,39 +1,4 @@
-# 🚀 CyberSage - Full Stack Developer Extraordinaire
 
-<div align="center">
-
-<!-- Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=CyberSage&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
-
-<!-- Animated Typing Introduction -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Django+%7C+Flask+%7C+React+Expert+%E2%9A%A1;Building+Digital+Experiences+%F0%9F%8C%90;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing Animation" />
-</h1>
-
-<!-- Profile Badges -->
-<div>
-  <img src="https://komarev.com/ghpvc/?username=donrington&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/donrington?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/donrington?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-</div>
-
-<!-- Social Links -->
-<div style="margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/carrington-abakwe-b0b0a0217">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/CarlSwitch_CHUG">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:carryoby@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://cybersage-portfolio-2024.vercel.app/index.html">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
-</div>
 
 
 <div align="center">
