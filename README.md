@@ -8,7 +8,7 @@
 
 <!-- Animated Typing Introduction -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Full+Stack+Software+Engineer+%F0%9F%92%BB;Django+%7C+Flask+%7C+React+%7C+Vue.js+Expert+%E2%9A%A1;15%2B+Production+Apps+Deployed+%F0%9F%9A%80;Building+Scalable+Digital+Solutions+%F0%9F%8C%90;Available+for+High-Impact+Projects+%F0%9F%A4%9D" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=800&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Full+Stack+Software+Engineer+%F0%9F%92%BB;Django+%7C+Flask+%7C+React+%7C+Vue.js+Expert+%E2%9A%A1;30%2B+Production+Apps+Deployed+%F0%9F%9A%80;Building+Scalable+Digital+Solutions+%F0%9F%8C%90;Available+for+High-Impact+Projects+%F0%9F%A4%9D" alt="Typing Animation" />
 </h1>
 
 <!-- Profile Badges -->
