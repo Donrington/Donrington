@@ -13,7 +13,7 @@
 <!-- Status & Badges -->
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-%2300D9FF?style=for-the-badge&labelColor=0D0D0D&logo=statuspage&logoColor=00D9FF"/>
-  <img src="https://img.shields.io/badge/Based%20In-Lagos%2C%20Nigeria-%23FF6B35?style=for-the-badge&labelColor=0D0D0D&logo=googlemaps&logoColor=FF6B35"/>
+
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-%23A855F7?style=for-the-badge&labelColor=0D0D0D&logo=buffer&logoColor=A855F7"/>
   <img src="https://komarev.com/ghpvc/?username=donrington&style=for-the-badge&color=00D9FF&labelColor=0D0D0D&label=Profile+Views"/>
 </p>
