@@ -45,7 +45,7 @@
 
 | 🚀 Projects | 🤝 Clients | 💰 Revenue Generated | ⭐ Avg Rating | 🌍 Daily Users |
 |:-----------:|:----------:|:--------------------:|:-------------:|:--------------:|
-| **30+** Production Apps | **75+** Worldwide | **$1M+** for Clients | **4.9 / 5.0** | **10K+** Served |
+| **50+** Production Apps | **75+** Worldwide | **$1M+** for Clients | **4.9 / 5.0** | **10K+** Served |
 
 </div>
 
