@@ -29,7 +29,7 @@
   <a href="https://x.com/CarlSwitch_CHUG">
     <img src="https://img.shields.io/badge/Twitter-%231D9BF0?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:carryoby@gmail.com">
+  <a href="mailto:hello@cybersage.dev">
     <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/2347025495506">
@@ -92,7 +92,7 @@ class CyberSage:
 
     def contact(self):
         return {
-            "email"     : "carryoby@gmail.com",
+            "email"     : "hello@cybersage.dev",
             "whatsapp"  : "+234 702 549 5506",
             "portfolio" : "https://cybersage.dev",
             "resume"    : "https://cybersage.dev/resume/Abakwe%20Carrington.pdf",
@@ -236,8 +236,8 @@ class CyberSage:
 
 <br/>
 
-<a href="mailto:carryoby@gmail.com?subject=Project%20Inquiry%20—%20Let's%20Build%20Together">
-  <img src="https://img.shields.io/badge/📧%20Email%20Me-carryoby@gmail.com-EA4335?style=for-the-badge&labelColor=0D0D0D"/>
+<a href="mailto:hello@cybersage.dev?subject=Project%20Inquiry%20—%20Let's%20Build%20Together">
+  <img src="https://img.shields.io/badge/📧%20Email%20Me-hello@cybersage.dev-EA4335?style=for-the-badge&labelColor=0D0D0D"/>
 </a>
 &nbsp;
 <a href="https://wa.me/2347025495506?text=Hi%20Carrington%2C%20I%27d%20like%20to%20discuss%20a%20project">
